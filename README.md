@@ -1,5 +1,8 @@
 IPL 2026: Aggressive XI Scouting & Performance Analytics
+
+
 Project Overview
+
 This end-to-end pipeline scouts an "Aggressive XI" for IPL 2026 using Python, SQL, and Power BI. By analyzing 17 years of ball-by-ball data (2008-2024), it moves beyond basic averages to prioritize Situational Impact (Match Phases) and Venue Adaptability. The project features custom DAX metrics and interactive matrices for data-driven player recruitment and auction strategy.  
 
 The Technical Pipeline
